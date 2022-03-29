@@ -8,7 +8,7 @@ Admin der Schwachen,
 Supporter der Armen,
 Programmierer der Dümlichen,
 Sonnenkönig der Umschalt-Tasten drückenden,
-Unter ihm wird die Menschheit der stubenhocker wieder vereint und glücklich,
+Unter ihm wird die Menschheit der stubenhockenden Dicken wieder vereint und glücklich,
 Heavy- F*cking Askylan,
 Danke dass es dich gibt.
 
