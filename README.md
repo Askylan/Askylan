@@ -12,6 +12,12 @@ Unter ihm wird die Menschheit der stubenhockenden Dicken wieder vereint und glü
 Heavy- F*cking Askylan,
 Danke dass es dich gibt.
 
+```
+
+<§askylan eat('nuddles') => sleep('12h') => code('stuff') => game('warframe') => repeate(true); §>
+
+```
+
 <!---
 Askylan/Askylan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
