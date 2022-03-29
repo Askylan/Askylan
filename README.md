@@ -13,7 +13,7 @@ Heavy- F*cking Askylan,
 Danke dass es dich gibt.
 
 ```php
-<§askylan eat('nuddles') => sleep('12h') => code('stuff') => game('warframe') => repeate(true); §>
+<?askylan eat('nuddles') => sleep('12h') => code('stuff') => game('warframe') => repeate(true); ?>
 ```
 
 <!---
